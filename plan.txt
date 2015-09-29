@@ -1,0 +1,12 @@
+What are the basic operations that the text editor will do
+1. Person will be able to open, edit and save any file in ASCII format
+2. The program will work in the command shell like nano
+3. Different ways:
+	a. Directly being able to insert characters and delete other characters (extremely hard :P)
+	b. Displaying a menu at the beginning of each operation as to what is to be done (letters will be inputs to decide what operation is to 	   be done.
+4. Editing the file will be as follows:
+	a. insert any string
+	b. delete any string
+	c. undo moves
+	d. highlighting of keywords in .c files
+5. When called the file should display the file that is called in such a way that it can be edited.
